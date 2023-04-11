@@ -1,3 +1,3 @@
-# GPT_competition
+# AI SPARK 기계 이상탐지 대회
 
-## AI-connect 주관 경진대회
+- https://aifactory.space/competition/
